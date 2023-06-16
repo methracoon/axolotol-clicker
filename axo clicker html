@@ -1,1 +1,36 @@
 <!DOCTYPE html>
+<html lang="en">
+  
+<head>
+    
+    <title>axolotle clikker :D</title>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  
+</head>
+ 
+    <body>
+    
+         <center>
+            <button id="butt">hello!! :D<br/>
+            
+                <img id="img" src="https://ih1.redbubble.net/image.3185759508.5148/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200px">
+            
+            </button>
+            
+            <p id="val">0 $</p> 
+            
+            <button id="upgrade"> UPGRADE 50$ </button>
+    
+            <p >
+                "ps theres a treat at the fifth ugrade"
+            </p>
+         </center>
+ 
+    </body>
+
+  </html>
