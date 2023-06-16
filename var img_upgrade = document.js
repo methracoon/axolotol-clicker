@@ -29,7 +29,7 @@ butt.onclick = function(){
 
 upgbutt.onclick = function(){
   if (value >= upg_1price ){
-    value = value -upg_1price 
+    value = value - upg_1price 
     valtext.innerHTML= value + " $"
     
     money_amunt = money_amunt +1
